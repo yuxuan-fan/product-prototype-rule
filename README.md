@@ -1,4 +1,4 @@
-# 产品原型规范（product-prototype）
+# 产品原型规范（product-prototype-rule）
 
 一套用于生成「可交互前端原型网页」的个人规范，供 AI 助手在用户明确要求按本规范生成/迭代原型页面时加载执行。
 
