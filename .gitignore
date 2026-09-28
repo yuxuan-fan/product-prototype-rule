@@ -1,0 +1,5 @@
+# .gitignore 本地配置与记忆目录
+.workbuddy/
+
+# macOS
+.DS_Store
