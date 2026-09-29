@@ -3,3 +3,30 @@
 
 # macOS
 .DS_Store
+._*
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 临时文件与验证产物
+*.log
+*.tmp
+chrome-prof-*/
+playwright-report/
+test-results/
+
+# 依赖与构建产物
+node_modules/
+__pycache__/
+.venv/
+venv/
+dist/
+
+# 环境变量 / 密钥
+.env
+.env.*
+!.env.example
