@@ -25,6 +25,7 @@ __pycache__/
 .venv/
 venv/
 dist/
+unpackage/
 
 # 环境变量 / 密钥
 .env
